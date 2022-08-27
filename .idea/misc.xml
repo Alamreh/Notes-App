@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/tabre/Downloads/MyNotes/app/src/main/res/drawable/ic_add.xml" value="0.1" />
+        <entry key="..\:/Users/tabre/Downloads/MyNotes/app/src/main/res/drawable/ic_baseline_add_24.xml" value="0.11" />
+        <entry key="..\:/Users/tabre/Downloads/MyNotes/app/src/main/res/drawable/ic_oin.xml" value="0.11" />
+        <entry key="..\:/Users/tabre/Downloads/MyNotes/app/src/main/res/drawable/ic_save_.xml" value="0.1" />
+        <entry key="..\:/Users/tabre/Downloads/MyNotes/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/tabre/Downloads/MyNotes/app/src/main/res/layout/activity_notes_taker.xml" value="0.1796875" />
+        <entry key="..\:/Users/tabre/Downloads/MyNotes/app/src/main/res/layout/main_activity.xml" value="0.1796875" />
+        <entry key="..\:/Users/tabre/Downloads/MyNotes/app/src/main/res/layout/main_fragment.xml" value="0.1" />
+        <entry key="..\:/Users/tabre/Downloads/MyNotes/app/src/main/res/layout/notes_list.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/tabre/Downloads/MyNotes/app/src/main/res/menu/popup_menu.xml" value="0.14749893116716545" />
+        <entry key="..\:/Users/tabre/Downloads/MyNotes/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+        <entry key="..\:/Users/tabre/Downloads/MyNotes/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
